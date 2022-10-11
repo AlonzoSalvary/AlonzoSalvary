@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picture color bos test (RGB mouse prototype)", "Picture color bos test (RGB mouse prototype)\Picture color bos test (RGB mouse prototype).csproj", "{BA259134-493F-4AF4-8C76-AFE4235D6650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA259134-493F-4AF4-8C76-AFE4235D6650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA259134-493F-4AF4-8C76-AFE4235D6650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA259134-493F-4AF4-8C76-AFE4235D6650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA259134-493F-4AF4-8C76-AFE4235D6650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB861A94-0091-46D6-BC99-D428F04D701F}
+	EndGlobalSection
+EndGlobal
